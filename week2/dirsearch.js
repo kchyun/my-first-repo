@@ -27,4 +27,5 @@ const recursiveDirSearch = (rootDir) => {
     }
 };
 
+//이 코드와 같은 위치에 test 폴더가 있다고 가정하여 코드를 작성했습니다!
 recursiveDirSearch('./test');
